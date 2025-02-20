@@ -6,7 +6,7 @@ import mathjax3 from "markdown-it-mathjax3";
 async function config() {
   return {
     lang: "en-US",
-    title: "Clark Cui",
+    title: "克喵Kemeow's Home",
     description: "Home of Clark Cui",
     head: [
       [
